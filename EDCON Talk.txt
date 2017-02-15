@@ -1,0 +1,47 @@
+EDCON Talk
+	goals for talk
+		hint at crowdsale
+		talk about tech / get devs interest
+		get investor interest
+		mission / on-boarding / mass adoption
+		focus on network effects and developer support
+	What's New?
+		Current DApps we're working with
+		Canonical Root Hash checkpointing
+		Alpha & Bug Fixes
+		Commiteth
+	Roadmap
+		Swarm
+		economic privacy, set the deposit to message you rather than block people entirely
+		UI Refresh
+		Topic-based chat
+			Smart Contract based Admin?
+			not encrypted
+			How to govern in decentralised form?
+		Developer Tools & Chat Bots
+		Our DApps / Future Ambitions
+		 how to mention these without sounding weird / salesy
+			Sticker Market
+			Visual Programming
+			Global Teller Network
+		convenience vs privacy push notifications, offline messaging and bloom filters
+			Whisper Inboxing / Push Notifications
+			Migrate to Whisper V5
+				Bloom Filters
+			Contact Sharing
+	Closing out / Food for thought / Lunchtime discussion
+		Future Problems
+			No Intermediaries but isn't a client an intermediary? Why should you trust us?
+				Service Provider
+				Quorum based voting
+				open source
+		call to action
+			join our slack
+			download status
+	What Is Status
+		Just download it
+		messenger
+		overview of talk / what to expect
+	Why a messenger?
+	 Same slides / arguments as previous talk
+		the opportunity, secure p2p messenger

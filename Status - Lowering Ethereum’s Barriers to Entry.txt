@@ -1,0 +1,51 @@
+Status: Lowering Ethereum’s Barriers to Entry
+	How to make developers happy?
+		Easy Development
+			Developer TOols
+		Write once, work everywhere
+		"Instant" User-base
+			What if you could deploy your software and instantly have people using it?
+			Network Effects
+		DApp Integrations (Social Proof)
+		Full web3
+			Whisper
+			Swarm
+			Ethereum Blockchain
+		Chatbots
+		Commiteth
+		Visual Programming
+	Ultimate Goal
+		Mass-User Adoption
+			What do we need?
+				A Vehicle
+					Great user Experience
+						Starts with the User first
+					Doesn't require understanding of crypto
+					Fits into Daily experience
+					Free to use
+					Why a Messenger?
+						Maximises Surface Area
+				Content
+					Financial Tools
+					Markets
+					Developers
+				User Acquisition Strategy
+					Virality
+		Disintermediation
+			Community Involvement
+			Client as Trusted Intermediary
+	How to make users happy?
+		Beautiful User Experience
+		Conveniently Chat with Friends
+		Choose-your-own Privacy with good defaults
+		Fast Syncing
+			Canonical Root Hash checkpointing
+		Meet Expectations
+			Sending Images, Audio Messages, 
+				Swarm
+			Sticker Market
+		Getting ETH
+			Global Teller Network
+	End
+		join our slack
+		download status
